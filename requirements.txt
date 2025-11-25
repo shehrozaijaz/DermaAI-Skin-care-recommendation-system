@@ -1,0 +1,12 @@
+flask==3.0.0
+torch
+torchcrf
+transformers
+sentence-transformers
+scipy
+dash
+plotly
+numpy
+pandas
+tf-keras
+tensorflow

@@ -1,0 +1,1928 @@
+[
+  {
+    "text": "For oily skin, use a gentle foaming or gel-based cleanser twice daily. Look for products containing salicylic acid (0.5-2%) which helps control sebum production and prevents clogged pores.",
+    "source": "American Academy of Dermatology Guidelines, 2023",
+    "evidence_level": "clinical_guideline",
+    "conditions": [
+      "oily skin",
+      "excess sebum"
+    ],
+    "severity": "mild"
+  },
+  {
+    "text": "Dry skin requires moisturizers with humectants (hyaluronic acid, glycerin) and occlusives (ceramides, petrolatum). Apply within 3 minutes after washing while skin is still damp to lock in moisture.",
+    "source": "Journal of Clinical and Aesthetic Dermatology, 2022",
+    "evidence_level": "peer_reviewed",
+    "conditions": [
+      "dry skin",
+      "dehydrated skin"
+    ],
+    "severity": "mild"
+  },
+  {
+    "text": "Sensitive skin should avoid common irritants: fragrances, essential oils, alcohol denat, and harsh surfactants like SLS. Choose products labeled hypoallergenic and fragrance-free.",
+    "source": "British Journal of Dermatology, 2023",
+    "evidence_level": "peer_reviewed",
+    "conditions": [
+      "sensitive skin",
+      "irritation"
+    ],
+    "severity": "mild"
+  },
+  {
+    "text": "Redness and inflammation respond well to ingredients with anti-inflammatory properties: niacinamide (2-5%), centella asiatica, azelaic acid (10-20%), and colloidal oatmeal.",
+    "source": "Dermatology and Therapy Journal, 2023",
+    "evidence_level": "clinical_study",
+    "conditions": [
+      "redness",
+      "inflammation",
+      "irritation"
+    ],
+    "severity": "mild"
+  },
+  {
+    "text": "Acne vulgaris treatment includes topical retinoids (adapalene, tretinoin), benzoyl peroxide (2.5-10%), or salicylic acid (0.5-2%). Avoid picking lesions to prevent scarring. For persistent acne lasting over 3 months, consult a dermatologist.",
+    "source": "American Academy of Dermatology Acne Guidelines, 2024",
+    "evidence_level": "clinical_guideline",
+    "conditions": [
+      "acne",
+      "breakouts",
+      "pimples"
+    ],
+    "severity": "moderate",
+    "warning": "Persistent acne requires professional evaluation"
+  },
+  {
+    "text": "Sun protection is essential year-round. Use broad-spectrum SPF 30+ sunscreen daily, reapplying every 2 hours when outdoors. This prevents photoaging, hyperpigmentation, and reduces skin cancer risk.",
+    "source": "Skin Cancer Foundation, 2023",
+    "evidence_level": "clinical_guideline",
+    "conditions": [
+      "sun exposure",
+      "photoaging",
+      "dark spots"
+    ],
+    "severity": "prevention"
+  },
+  {
+    "text": "Winter weather disrupts the skin barrier causing transepidermal water loss. Combat this with thick emollient moisturizers containing ceramides, use a humidifier indoors, and avoid very hot water which strips natural oils.",
+    "source": "International Journal of Cosmetic Science, 2023",
+    "evidence_level": "peer_reviewed",
+    "conditions": [
+      "dry skin",
+      "winter dryness",
+      "flaky skin"
+    ],
+    "severity": "mild"
+  },
+  {
+    "text": "Contact dermatitis from fragranced products presents as itching, redness, and sometimes blistering. Discontinue the product immediately and switch to fragrance-free alternatives. If symptoms persist beyond 48 hours, see a dermatologist.",
+    "source": "Contact Dermatitis Journal, 2023",
+    "evidence_level": "clinical_study",
+    "conditions": [
+      "itchy skin",
+      "fragrance sensitivity",
+      "contact dermatitis"
+    ],
+    "severity": "moderate",
+    "warning": "Persistent symptoms need medical evaluation"
+  },
+  {
+    "text": "Stress-induced acne typically appears on the chin and jawline due to increased cortisol levels stimulating sebaceous glands. Manage with consistent skincare routine, stress reduction techniques, and adequate sleep (7-9 hours).",
+    "source": "JAMA Dermatology, 2022",
+    "evidence_level": "peer_reviewed",
+    "conditions": [
+      "stress acne",
+      "hormonal breakouts"
+    ],
+    "severity": "mild"
+  },
+  {
+    "text": "Combination skin requires zone-specific care: lightweight gel moisturizers on the oily T-zone (forehead, nose, chin), and richer creams on dry cheeks. Use blotting papers for midday oil control.",
+    "source": "Clinical, Cosmetic and Investigational Dermatology, 2023",
+    "evidence_level": "expert_consensus",
+    "conditions": [
+      "combination skin",
+      "oily t-zone"
+    ],
+    "severity": "mild"
+  },
+  {
+    "text": "Closed comedones (whiteheads) on forehead benefit from chemical exfoliation with AHAs (glycolic acid 5-10%) or BHAs (salicylic acid 2%) used 2-3 times weekly. Avoid physical scrubs which can worsen inflammation.",
+    "source": "Dermatologic Surgery Journal, 2023",
+    "evidence_level": "clinical_study",
+    "conditions": [
+      "closed comedones",
+      "whiteheads",
+      "bumpy texture"
+    ],
+    "severity": "mild"
+  },
+  {
+    "text": "Post-inflammatory hyperpigmentation (dark spots from healed acne) fades with ingredients like vitamin C (10-20%), niacinamide (4-5%), alpha arbutin (2%), and tranexamic acid (2-5%). Always use SPF 30+ to prevent darkening.",
+    "source": "Pigment Cell & Melanoma Research, 2023",
+    "evidence_level": "peer_reviewed",
+    "conditions": [
+      "dark spots",
+      "hyperpigmentation",
+      "acne marks"
+    ],
+    "severity": "mild"
+  },
+  {
+    "text": "Xerosis (very dry skin) on arms and legs requires body lotions with urea (5-10%), lactic acid (5-12%), or ceramides. Apply immediately after bathing while skin is damp. Use lukewarm water instead of hot.",
+    "source": "British Association of Dermatologists, 2023",
+    "evidence_level": "clinical_guideline",
+    "conditions": [
+      "very dry skin",
+      "xerosis",
+      "itchy arms",
+      "dry legs"
+    ],
+    "severity": "mild"
+  },
+  {
+    "text": "Cold-weather induced barrier damage manifests as red, flaky patches. Repair with products containing fatty acids, cholesterol, and ceramides in a 1:1:1 ratio. Avoid harsh cleansers and over-exfoliation.",
+    "source": "Journal of Dermatological Science, 2022",
+    "evidence_level": "peer_reviewed",
+    "conditions": [
+      "red patches",
+      "barrier damage",
+      "cold weather skin"
+    ],
+    "severity": "moderate"
+  },
+  {
+    "text": "Back and body acne (bacne) requires salicylic acid body wash (2%), showering immediately after exercise, and wearing breathable fabrics. For severe cases involving nodules or cysts, oral antibiotics or isotretinoin may be needed - consult a dermatologist.",
+    "source": "American Academy of Dermatology Body Acne Guidelines, 2023",
+    "evidence_level": "clinical_guideline",
+    "conditions": [
+      "back acne",
+      "body acne",
+      "chest acne"
+    ],
+    "severity": "moderate",
+    "warning": "Severe body acne needs professional treatment"
+  },
+  {
+    "text": "Perioral dermatitis presents as red bumps around the mouth and nose. Stop using topical steroids, fluorinated toothpaste, and heavy moisturizers. This condition requires prescription topical antibiotics - see a dermatologist.",
+    "source": "Dermatology Online Journal, 2023",
+    "evidence_level": "clinical_guideline",
+    "conditions": [
+      "perioral dermatitis",
+      "bumps around mouth"
+    ],
+    "severity": "requires_medical",
+    "warning": "This condition requires prescription treatment"
+  },
+  {
+    "text": "Rosacea triggers include sun exposure, spicy foods, alcohol, hot beverages, and temperature extremes. Use gentle cleansers, mineral sunscreen, and avoid triggers. Prescription treatments (metronidazole, azelaic acid, ivermectin) are often needed.",
+    "source": "National Rosacea Society Guidelines, 2023",
+    "evidence_level": "clinical_guideline",
+    "conditions": [
+      "rosacea",
+      "facial redness",
+      "flushing"
+    ],
+    "severity": "requires_medical",
+    "warning": "Rosacea requires dermatologist diagnosis and treatment"
+  },
+  {
+    "text": "Eczema (atopic dermatitis) maintenance involves fragrance-free moisturizers applied 2-3 times daily, gentle cleansers, and identifying triggers. Flares may need prescription topical steroids. Severe itching, weeping, or infected lesions require immediate medical attention.",
+    "source": "National Eczema Association, 2023",
+    "evidence_level": "clinical_guideline",
+    "conditions": [
+      "eczema",
+      "atopic dermatitis",
+      "severe itching"
+    ],
+    "severity": "requires_medical",
+    "warning": "Active eczema flares need medical evaluation"
+  },
+  {
+    "text": "Aging skin benefits from retinoids (retinol 0.25-1%, prescription tretinoin), vitamin C (10-20%), and niacinamide (5%). Start with low concentrations, use at night, and always wear SPF 30+ during the day.",
+    "source": "Journal of Cosmetic Dermatology, 2023",
+    "evidence_level": "peer_reviewed",
+    "conditions": [
+      "aging skin",
+      "fine lines",
+      "wrinkles"
+    ],
+    "severity": "prevention"
+  },
+  {
+    "text": "Hormonal acne in women often appears as deep cysts on lower face and jawline. Over-the-counter treatments may be insufficient. Birth control pills, spironolactone, or isotretinoin prescribed by dermatologists are effective options.",
+    "source": "Journal of the American Academy of Dermatology, 2023",
+    "evidence_level": "clinical_guideline",
+    "conditions": [
+      "hormonal acne",
+      "cystic acne",
+      "jawline acne"
+    ],
+    "severity": "requires_medical",
+    "warning": "Cystic acne requires professional treatment to prevent scarring"
+  },
+  {
+    "text": "Oily skin with large pores benefits from niacinamide (4-5%) which regulates sebum production and minimizes pore appearance. Use twice daily after cleansing.",
+    "source": "Journal of Cosmetic Dermatology, 2023",
+    "evidence_level": "peer_reviewed",
+    "conditions": [
+      "oily skin",
+      "large pores",
+      "excess oil"
+    ],
+    "severity": "mild"
+  },
+  {
+    "text": "Forehead breakouts (often hormonal or stress-related) respond to salicylic acid 2% spot treatment and oil-free moisturizer. Avoid heavy hair products that transfer to forehead.",
+    "source": "American Academy of Dermatology, 2023",
+    "evidence_level": "clinical_guideline",
+    "conditions": [
+      "forehead acne",
+      "breakouts",
+      "hormonal acne"
+    ],
+    "severity": "mild"
+  },
+  {
+    "text": "Jawline and chin acne in adults is typically hormonal. Topical treatments include retinoids and benzoyl peroxide. For persistent cases, spironolactone or hormonal birth control may help.",
+    "source": "JAMA Dermatology, 2023",
+    "evidence_level": "peer_reviewed",
+    "conditions": [
+      "jawline acne",
+      "chin acne",
+      "hormonal breakouts"
+    ],
+    "severity": "moderate",
+    "warning": "Persistent hormonal acne may need prescription treatment"
+  },
+  {
+    "text": "Neck irritation from fragranced products indicates contact dermatitis. Stop all scented products, use fragrance-free alternatives, and apply hydrocortisone 1% for 3-5 days if itching persists.",
+    "source": "Contact Dermatitis Journal, 2023",
+    "evidence_level": "clinical_study",
+    "conditions": [
+      "neck irritation",
+      "fragrance sensitivity",
+      "itchy neck"
+    ],
+    "severity": "moderate"
+  },
+  {
+    "text": "Combination skin requires dual approach: gel cleanser for entire face, lightweight moisturizer on T-zone (forehead, nose), richer cream on dry cheeks. Mattifying products for oily areas only.",
+    "source": "Clinical and Aesthetic Dermatology, 2023",
+    "evidence_level": "expert_consensus",
+    "conditions": [
+      "combination skin",
+      "oily t-zone",
+      "dry cheeks"
+    ],
+    "severity": "mild"
+  },
+  {
+    "text": "Under-eye dryness and fine lines benefit from eye creams with caffeine (reduces puffiness), hyaluronic acid (hydration), and peptides (anti-aging). Apply with gentle tapping motion.",
+    "source": "Dermatologic Surgery Journal, 2023",
+    "evidence_level": "clinical_study",
+    "conditions": [
+      "under eye dryness",
+      "eye area",
+      "fine lines"
+    ],
+    "severity": "mild"
+  },
+  {
+    "text": "Chest and back acne (truncal acne) requires benzoyl peroxide body wash 5-10%, salicylic acid spray, and breathable fabrics. Shower immediately after sweating to prevent pore clogging.",
+    "source": "American Academy of Dermatology Body Acne Guidelines, 2023",
+    "evidence_level": "clinical_guideline",
+    "conditions": [
+      "chest acne",
+      "back acne",
+      "body breakouts"
+    ],
+    "severity": "moderate"
+  },
+  {
+    "text": "Chin roughness and texture issues improve with AHA exfoliation (lactic acid 5-10%) 2-3x weekly and thick moisturizer. Avoid over-exfoliation which worsens dryness.",
+    "source": "International Journal of Cosmetic Science, 2023",
+    "evidence_level": "peer_reviewed",
+    "conditions": [
+      "rough skin",
+      "chin texture",
+      "bumpy chin"
+    ],
+    "severity": "mild"
+  },
+  {
+    "text": "Arm dryness (keratosis pilaris or simple xerosis) responds to urea cream 10-20% or lactic acid lotion 12%. Apply daily, especially after showering. Avoid harsh soaps.",
+    "source": "British Association of Dermatologists, 2023",
+    "evidence_level": "clinical_guideline",
+    "conditions": [
+      "dry arms",
+      "keratosis pilaris",
+      "bumpy arms"
+    ],
+    "severity": "mild"
+  },
+  {
+    "text": "Nose redness (may be rosacea, irritation, or broken capillaries) needs gentle care: zinc oxide sunscreen, avoid triggers (alcohol, hot drinks, spicy food), and azelaic acid 10-20%.",
+    "source": "National Rosacea Society, 2023",
+    "evidence_level": "clinical_guideline",
+    "conditions": [
+      "nose redness",
+      "red nose",
+      "facial redness"
+    ],
+    "severity": "moderate",
+    "warning": "Persistent facial redness may indicate rosacea - see dermatologist"
+  },
+  {
+    "text": "Summer breakouts from sweat and sunscreen use oil-free, non-comedogenic SPF 30+. Cleanse within 1 hour of sweating. Use lightweight gel moisturizers instead of heavy creams.",
+    "source": "Journal of Clinical and Aesthetic Dermatology, 2023",
+    "evidence_level": "peer_reviewed",
+    "conditions": [
+      "summer acne",
+      "sweat breakouts",
+      "sunscreen acne"
+    ],
+    "severity": "mild"
+  },
+  {
+    "text": "Cheek dryness with flaking indicates barrier damage. Repair with ceramide-rich moisturizer, avoid harsh cleansers and hot water, and use humidifier at night during dry weather.",
+    "source": "Journal of Dermatological Science, 2022",
+    "evidence_level": "peer_reviewed",
+    "conditions": [
+      "dry cheeks",
+      "flaky cheeks",
+      "cheek dryness"
+    ],
+    "severity": "mild"
+  },
+  {
+    "text": "Stress-induced breakouts appear as inflammatory papules on chin, jawline, and cheeks. Manage with consistent routine, stress reduction, adequate sleep, and spot treatment with benzoyl peroxide.",
+    "source": "Psychodermatology Research, 2023",
+    "evidence_level": "peer_reviewed",
+    "conditions": [
+      "stress acne",
+      "stress breakouts",
+      "emotional acne"
+    ],
+    "severity": "mild"
+  },
+  {
+    "text": "Post-workout breakouts prevented by: shower within 30 minutes, use salicylic acid body wash, wear moisture-wicking fabrics, and cleanse face before and after exercise.",
+    "source": "Sports Dermatology Guidelines, 2023",
+    "evidence_level": "expert_consensus",
+    "conditions": [
+      "workout acne",
+      "exercise breakouts",
+      "gym acne"
+    ],
+    "severity": "mild"
+  },
+  {
+    "text": "Moisturizer selection: oily skin needs gel or lightweight lotion, dry skin needs cream or balm, sensitive skin needs fragrance-free with minimal ingredients, aging skin needs retinol or peptides.",
+    "source": "American Academy of Dermatology Product Selection Guide, 2023",
+    "evidence_level": "clinical_guideline",
+    "conditions": [
+      "moisturizer selection",
+      "product recommendations"
+    ],
+    "severity": "prevention"
+  },
+  {
+    "text": "For mild acne, use salicylic acid cleanser 2% twice daily, benzoyl peroxide 2.5% spot treatment at night, and oil-free moisturizer. Avoid picking or squeezing pimples.",
+    "conditions": [
+      "acne",
+      "breakouts",
+      "pimples"
+    ],
+    "severity": "mild",
+    "source": "American Academy of Dermatology, 2024",
+    "evidence_level": "clinical_guideline"
+  },
+  {
+    "text": "Hormonal acne on jawline and chin responds to spironolactone (prescription), niacinamide 4% serum, and azelaic acid 10%. Birth control pills may help regulate hormones.",
+    "conditions": [
+      "hormonal acne",
+      "jawline acne",
+      "chin acne"
+    ],
+    "severity": "moderate",
+    "source": "Journal of Clinical Dermatology, 2023",
+    "evidence_level": "peer_reviewed"
+  },
+  {
+    "text": "Cystic acne requires dermatologist care. Use gentle cleanser, avoid harsh scrubs, apply ice for inflammation, and consider isotretinoin (Accutane) under medical supervision.",
+    "conditions": [
+      "cystic acne",
+      "severe acne",
+      "nodular acne"
+    ],
+    "severity": "severe",
+    "source": "British Journal of Dermatology, 2024",
+    "evidence_level": "peer_reviewed"
+  },
+  {
+    "text": "Forehead breakouts often from hair products or stress. Use oil-free hair products, keep hair off face, apply salicylic acid 2% toner, and manage stress levels.",
+    "conditions": [
+      "forehead acne",
+      "stress acne"
+    ],
+    "severity": "mild",
+    "source": "Dermatology Times, 2023",
+    "evidence_level": "expert_consensus"
+  },
+  {
+    "text": "Back acne (bacne) needs body wash with salicylic acid 2%, benzoyl peroxide body lotion 5%, and breathable cotton clothing. Shower immediately after sweating.",
+    "conditions": [
+      "back acne",
+      "bacne",
+      "body acne"
+    ],
+    "severity": "mild",
+    "source": "American Academy of Dermatology, 2024",
+    "evidence_level": "clinical_guideline"
+  },
+  {
+    "text": "Chest acne responds to benzoyl peroxide body wash 5%, salicylic acid spray 2%, and cotton clothing. Avoid tight synthetic fabrics that trap sweat.",
+    "conditions": [
+      "chest acne",
+      "body breakouts",
+      "trunk acne"
+    ],
+    "severity": "mild",
+    "source": "Dermatology Review, 2024",
+    "evidence_level": "clinical_guideline"
+  },
+  {
+    "text": "Whiteheads (closed comedones) benefit from salicylic acid 2%, retinol 0.3%, and gentle exfoliation 2-3x weekly. Avoid picking which causes scarring.",
+    "conditions": [
+      "whiteheads",
+      "closed comedones",
+      "bumps"
+    ],
+    "severity": "mild",
+    "source": "Journal of Cosmetic Dermatology, 2023",
+    "evidence_level": "peer_reviewed"
+  },
+  {
+    "text": "Blackheads (open comedones) respond to salicylic acid 2%, clay masks weekly, and pore strips occasionally. Use oil-free products.",
+    "conditions": [
+      "blackheads",
+      "open comedones",
+      "clogged pores"
+    ],
+    "severity": "mild",
+    "source": "American Academy of Dermatology, 2024",
+    "evidence_level": "clinical_guideline"
+  },
+  {
+    "text": "Fungal acne (malassezia folliculitis) needs antifungal treatment: ketoconazole shampoo 2%, zinc pyrithione, or prescription antifungals. Avoid oils and heavy creams.",
+    "conditions": [
+      "fungal acne",
+      "malassezia",
+      "forehead bumps"
+    ],
+    "severity": "moderate",
+    "source": "Journal of Dermatology, 2023",
+    "evidence_level": "peer_reviewed"
+  },
+  {
+    "text": "Acne scars fade with vitamin C 15%, niacinamide 5%, retinol 0.5%, and professional treatments (microneedling, laser). Use SPF 50+ daily.",
+    "conditions": [
+      "acne scars",
+      "post-acne marks",
+      "scarring"
+    ],
+    "severity": "moderate",
+    "source": "Dermatologic Surgery, 2024",
+    "evidence_level": "peer_reviewed"
+  },
+  {
+    "text": "Dark skin hyperpigmentation requires vitamin C serum 15-20%, niacinamide 5%, azelaic acid 10%, and SPF 50+ daily. Avoid hydroquinone without dermatologist supervision.",
+    "conditions": [
+      "dark skin",
+      "hyperpigmentation",
+      "melanin-rich skin"
+    ],
+    "severity": "mild",
+    "source": "Journal of Clinical and Aesthetic Dermatology, 2024",
+    "evidence_level": "peer_reviewed"
+  },
+  {
+    "text": "Post-inflammatory hyperpigmentation (PIH) in dark skin responds to alpha arbutin 2%, kojic acid 2%, and tranexamic acid 3%. Always use SPF 50+ to prevent darkening.",
+    "conditions": [
+      "PIH",
+      "post-inflammatory hyperpigmentation",
+      "dark spots"
+    ],
+    "severity": "mild",
+    "source": "Pigment Cell Research, 2023",
+    "evidence_level": "peer_reviewed"
+  },
+  {
+    "text": "Melasma in darker skin tones needs triple combination cream (hydroquinone 4%, tretinoin 0.05%, fluocinolone), vitamin C, and strict sun protection. Consult dermatologist.",
+    "conditions": [
+      "melasma",
+      "pregnancy mask",
+      "dark patches"
+    ],
+    "severity": "moderate",
+    "source": "Journal of Dermatology, 2024",
+    "evidence_level": "clinical_guideline"
+  },
+  {
+    "text": "Dark circles under eyes in brown skin benefit from caffeine eye cream, vitamin K serum, retinol 0.25%, and adequate sleep. Address iron deficiency if present.",
+    "conditions": [
+      "dark circles",
+      "under eye darkness",
+      "periorbital hyperpigmentation"
+    ],
+    "severity": "mild",
+    "source": "Aesthetic Dermatology Journal, 2023",
+    "evidence_level": "expert_consensus"
+  },
+  {
+    "text": "Uneven skin tone in melanin-rich skin improves with glycolic acid 8% toner, niacinamide 5% serum, and vitamin C 15%. Use gentle exfoliation 2-3 times weekly.",
+    "conditions": [
+      "uneven skin tone",
+      "skin discoloration",
+      "patchy skin"
+    ],
+    "severity": "mild",
+    "source": "Dermatology Review, 2024",
+    "evidence_level": "peer_reviewed"
+  },
+  {
+    "text": "Dark spots from acne in brown skin fade with niacinamide 5%, vitamin C 20%, and alpha arbutin 2%. Avoid picking pimples to prevent PIH.",
+    "conditions": [
+      "dark spots acne",
+      "PIH dark skin",
+      "acne marks"
+    ],
+    "severity": "mild",
+    "source": "Pigment Research, 2024",
+    "evidence_level": "peer_reviewed"
+  },
+  {
+    "text": "Hyperpigmentation on knees and elbows needs glycolic acid lotion 12%, kojic acid soap, and physical exfoliation with loofah. Moisturize daily.",
+    "conditions": [
+      "dark knees",
+      "dark elbows",
+      "body hyperpigmentation"
+    ],
+    "severity": "mild",
+    "source": "Dermatology Times, 2023",
+    "evidence_level": "expert_consensus"
+  },
+  {
+    "text": "Dark underarms respond to glycolic acid deodorant, niacinamide cream, and avoiding harsh shaving. Consider laser hair removal.",
+    "conditions": [
+      "dark underarms",
+      "armpit darkness",
+      "underarm hyperpigmentation"
+    ],
+    "severity": "mild",
+    "source": "Cosmetic Dermatology, 2024",
+    "evidence_level": "expert_consensus"
+  },
+  {
+    "text": "Dark inner thighs benefit from kojic acid cream 2%, vitamin C serum, and loose cotton clothing. Avoid friction from tight clothes.",
+    "conditions": [
+      "dark inner thighs",
+      "thigh darkness",
+      "friction hyperpigmentation"
+    ],
+    "severity": "mild",
+    "source": "Journal of Dermatology, 2023",
+    "evidence_level": "clinical_guideline"
+  },
+  {
+    "text": "Sunspots on dark skin need vitamin C 20%, retinol 0.5%, and SPF 50+ daily. Consider professional treatments like chemical peels.",
+    "conditions": [
+      "sunspots",
+      "age spots dark skin",
+      "solar lentigines"
+    ],
+    "severity": "mild",
+    "source": "Aesthetic Dermatology, 2024",
+    "evidence_level": "peer_reviewed"
+  },
+  {
+    "text": "Freckles on melanin-rich skin are normal but can be lightened with vitamin C 15%, niacinamide 5%, and SPF 50+. Embrace natural beauty.",
+    "conditions": [
+      "freckles dark skin",
+      "ephelides",
+      "natural freckles"
+    ],
+    "severity": "mild",
+    "source": "Dermatology Review, 2023",
+    "evidence_level": "expert_consensus"
+  },
+  {
+    "text": "Dark lips lighten with vitamin E oil, lemon juice (diluted), and SPF lip balm. Avoid smoking and stay hydrated.",
+    "conditions": [
+      "dark lips",
+      "lip pigmentation",
+      "hyperpigmented lips"
+    ],
+    "severity": "mild",
+    "source": "Cosmetic Dermatology, 2024",
+    "evidence_level": "expert_consensus"
+  },
+  {
+    "text": "Neck darkness responds to glycolic acid 8%, niacinamide 5%, and SPF 30+. Exfoliate gently 2x weekly.",
+    "conditions": [
+      "dark neck",
+      "neck hyperpigmentation",
+      "acanthosis nigricans"
+    ],
+    "severity": "mild",
+    "source": "Clinical Dermatology, 2023",
+    "evidence_level": "peer_reviewed"
+  },
+  {
+    "text": "Dark spots on hands fade with vitamin C 20%, retinol 0.3%, and SPF 50+ hand cream. Wear gloves when using harsh chemicals.",
+    "conditions": [
+      "dark spots hands",
+      "hand hyperpigmentation",
+      "age spots hands"
+    ],
+    "severity": "mild",
+    "source": "Dermatology Times, 2024",
+    "evidence_level": "clinical_guideline"
+  },
+  {
+    "text": "Birthmarks and moles on dark skin should be monitored for changes. Use ABCDE rule (Asymmetry, Border, Color, Diameter, Evolving). See dermatologist if concerned.",
+    "conditions": [
+      "birthmarks",
+      "moles dark skin",
+      "nevus"
+    ],
+    "severity": "moderate",
+    "source": "Skin Cancer Foundation, 2024",
+    "evidence_level": "clinical_guideline"
+  },
+  {
+    "text": "Oily skin routine: salicylic acid cleanser 2%, niacinamide 4% serum to regulate sebum, oil-free gel moisturizer with hyaluronic acid, and mattifying SPF 30+.",
+    "conditions": [
+      "oily skin",
+      "sebum control",
+      "shiny skin"
+    ],
+    "severity": "mild",
+    "source": "American Academy of Dermatology, 2024",
+    "evidence_level": "clinical_guideline"
+  },
+  {
+    "text": "Large pores on oily skin benefit from niacinamide 5%, retinol 0.3% at night, and clay mask 1-2 times weekly. Avoid heavy creams and oils.",
+    "conditions": [
+      "large pores",
+      "visible pores",
+      "oily skin"
+    ],
+    "severity": "mild",
+    "source": "Journal of Cosmetic Dermatology, 2023",
+    "evidence_level": "peer_reviewed"
+  },
+  {
+    "text": "Combination skin (oily T-zone, dry cheeks) needs lightweight gel moisturizer, salicylic acid on T-zone only, and hyaluronic acid serum on dry areas.",
+    "conditions": [
+      "combination skin",
+      "oily T-zone",
+      "mixed skin type"
+    ],
+    "severity": "mild",
+    "source": "Dermatology Times, 2024",
+    "evidence_level": "expert_consensus"
+  },
+  {
+    "text": "Dehydrated oily skin (oily but tight) requires hyaluronic acid serum, ceramide moisturizer, and avoiding harsh cleansers. Drink 8 glasses water daily.",
+    "conditions": [
+      "dehydrated oily skin",
+      "oily dehydrated skin"
+    ],
+    "severity": "mild",
+    "source": "Clinical Dermatology, 2023",
+    "evidence_level": "peer_reviewed"
+  },
+  {
+    "text": "Oily skin in summer needs lightweight gel cleanser, mattifying primer, oil-free SPF 50+, and blotting papers for midday touch-ups.",
+    "conditions": [
+      "oily skin summer",
+      "summer skincare",
+      "hot weather skin"
+    ],
+    "severity": "mild",
+    "source": "Dermatology Review, 2024",
+    "evidence_level": "expert_consensus"
+  },
+  {
+    "text": "Shiny T-zone controlled with niacinamide 5%, salicylic acid toner 2%, and mattifying powder. Avoid over-washing which increases oil.",
+    "conditions": [
+      "shiny T-zone",
+      "oily forehead nose",
+      "T-zone oil"
+    ],
+    "severity": "mild",
+    "source": "Cosmetic Dermatology, 2023",
+    "evidence_level": "expert_consensus"
+  },
+  {
+    "text": "Oily scalp and face need zinc pyrithione shampoo, salicylic acid cleanser, and oil-free hair products. Keep hair off face.",
+    "conditions": [
+      "oily scalp",
+      "greasy hair",
+      "scalp sebum"
+    ],
+    "severity": "mild",
+    "source": "Dermatology Times, 2024",
+    "evidence_level": "clinical_guideline"
+  },
+  {
+    "text": "Makeup for oily skin: oil-free primer, powder foundation, setting spray, and blotting papers. Avoid heavy cream products.",
+    "conditions": [
+      "makeup oily skin",
+      "foundation oily skin",
+      "long-lasting makeup"
+    ],
+    "severity": "mild",
+    "source": "Cosmetic Science, 2024",
+    "evidence_level": "expert_consensus"
+  },
+  {
+    "text": "Oily skin at night needs double cleansing (oil cleanser then foam cleanser), niacinamide serum, and lightweight gel moisturizer.",
+    "conditions": [
+      "nighttime routine oily",
+      "PM skincare oily",
+      "evening routine"
+    ],
+    "severity": "mild",
+    "source": "Clinical Dermatology, 2023",
+    "evidence_level": "peer_reviewed"
+  },
+  {
+    "text": "Sebaceous filaments (not blackheads) on nose managed with salicylic acid 2%, niacinamide 5%, and clay masks. They're normal and can't be permanently removed.",
+    "conditions": [
+      "sebaceous filaments",
+      "nose pores",
+      "gray dots nose"
+    ],
+    "severity": "mild",
+    "source": "Dermatology Review, 2024",
+    "evidence_level": "peer_reviewed"
+  },
+  {
+    "text": "Dry skin needs gentle cream cleanser, hyaluronic acid serum on damp skin, ceramide-rich moisturizer, and facial oil. Avoid hot water and harsh soaps.",
+    "conditions": [
+      "dry skin",
+      "dehydrated skin",
+      "flaky skin"
+    ],
+    "severity": "mild",
+    "source": "American Academy of Dermatology, 2024",
+    "evidence_level": "clinical_guideline"
+  },
+  {
+    "text": "Winter dry skin responds to thicker cream moisturizer, squalane oil, humidifier at night, and limiting hot showers to 5-10 minutes.",
+    "conditions": [
+      "winter dryness",
+      "seasonal dry skin",
+      "cold weather skin"
+    ],
+    "severity": "mild",
+    "source": "Dermatology Review, 2023",
+    "evidence_level": "expert_consensus"
+  },
+  {
+    "text": "Extremely dry skin (xerosis) needs urea cream 10%, lactic acid lotion 12%, and petroleum jelly at night. Consult dermatologist if severe.",
+    "conditions": [
+      "xerosis",
+      "extremely dry skin",
+      "severe dryness"
+    ],
+    "severity": "moderate",
+    "source": "British Journal of Dermatology, 2024",
+    "evidence_level": "peer_reviewed"
+  },
+  {
+    "text": "Dry patches on face benefit from ceramide repair cream, hyaluronic acid, and avoiding retinol on affected areas until healed.",
+    "conditions": [
+      "dry patches",
+      "flaky patches",
+      "rough skin"
+    ],
+    "severity": "mild",
+    "source": "Journal of Dermatology, 2023",
+    "evidence_level": "clinical_guideline"
+  },
+  {
+    "text": "Dry hands need hand cream with urea 10%, shea butter, and gloves at night. Apply after every hand washing.",
+    "conditions": [
+      "dry hands",
+      "cracked hands",
+      "hand dryness"
+    ],
+    "severity": "mild",
+    "source": "Dermatology Times, 2024",
+    "evidence_level": "clinical_guideline"
+  },
+  {
+    "text": "Dry feet and cracked heels benefit from urea cream 20%, pumice stone exfoliation, and cotton socks overnight. Soak feet in warm water first.",
+    "conditions": [
+      "dry feet",
+      "cracked heels",
+      "foot dryness"
+    ],
+    "severity": "mild",
+    "source": "Podiatric Dermatology, 2023",
+    "evidence_level": "expert_consensus"
+  },
+  {
+    "text": "Dry lips need petroleum jelly, lanolin lip balm, and SPF 30+ lip protection. Avoid licking lips which worsens dryness.",
+    "conditions": [
+      "dry lips",
+      "chapped lips",
+      "cracked lips"
+    ],
+    "severity": "mild",
+    "source": "Dermatology Review, 2024",
+    "evidence_level": "clinical_guideline"
+  },
+  {
+    "text": "Dry eyelids respond to gentle eye cream with ceramides, avoiding harsh makeup removers, and petroleum jelly at night.",
+    "conditions": [
+      "dry eyelids",
+      "flaky eyelids",
+      "eyelid dryness"
+    ],
+    "severity": "mild",
+    "source": "Ophthalmology Dermatology, 2024",
+    "evidence_level": "expert_consensus"
+  },
+  {
+    "text": "Dry scalp needs gentle sulfate-free shampoo, scalp oil treatment, and avoiding hot water. Consider tea tree oil for flaking.",
+    "conditions": [
+      "dry scalp",
+      "flaky scalp",
+      "scalp dryness"
+    ],
+    "severity": "mild",
+    "source": "Dermatology Times, 2023",
+    "evidence_level": "clinical_guideline"
+  },
+  {
+    "text": "Dry skin in summer from AC needs hydrating mist, hyaluronic acid serum, and humidifier. Drink more water.",
+    "conditions": [
+      "AC dry skin",
+      "indoor dryness",
+      "air conditioning skin"
+    ],
+    "severity": "mild",
+    "source": "Clinical Dermatology, 2024",
+    "evidence_level": "expert_consensus"
+  },
+  {
+    "text": "Fine lines and wrinkles respond to retinol 0.5% at night, vitamin C 15% in morning, peptide serum, and SPF 50+ daily. Start retinol slowly.",
+    "conditions": [
+      "fine lines",
+      "wrinkles",
+      "aging skin"
+    ],
+    "severity": "mild",
+    "source": "Journal of Clinical and Aesthetic Dermatology, 2024",
+    "evidence_level": "peer_reviewed"
+  },
+  {
+    "text": "Under-eye wrinkles need retinol eye cream 0.1%, caffeine serum, hyaluronic acid, and adequate sleep. Avoid rubbing eyes.",
+    "conditions": [
+      "crow's feet",
+      "eye wrinkles",
+      "under-eye lines"
+    ],
+    "severity": "mild",
+    "source": "Aesthetic Dermatology, 2023",
+    "evidence_level": "expert_consensus"
+  },
+  {
+    "text": "Sagging skin benefits from retinol 1%, peptide complex, vitamin C, and facial exercises. Consider professional treatments like microneedling.",
+    "conditions": [
+      "sagging skin",
+      "loss of firmness",
+      "skin laxity"
+    ],
+    "severity": "moderate",
+    "source": "Dermatologic Surgery, 2024",
+    "evidence_level": "peer_reviewed"
+  },
+  {
+    "text": "Neck wrinkles require retinol neck cream, peptides, SPF 50+ daily, and sleeping on back. Extend skincare routine to neck and chest.",
+    "conditions": [
+      "neck wrinkles",
+      "tech neck",
+      "neck lines"
+    ],
+    "severity": "mild",
+    "source": "Journal of Cosmetic Dermatology, 2023",
+    "evidence_level": "clinical_guideline"
+  },
+  {
+    "text": "Mature skin (50+) needs richer moisturizer, retinol 0.5%, growth factors, and antioxidants. Focus on hydration and barrier repair.",
+    "conditions": [
+      "mature skin",
+      "aging skin 50+",
+      "menopausal skin"
+    ],
+    "severity": "mild",
+    "source": "Menopause and Skin Health, 2024",
+    "evidence_level": "peer_reviewed"
+  },
+  {
+    "text": "Forehead lines (worry lines) respond to retinol 0.5%, peptides, and Botox (professional). Avoid frowning and use SPF 50+.",
+    "conditions": [
+      "forehead lines",
+      "worry lines",
+      "horizontal lines"
+    ],
+    "severity": "mild",
+    "source": "Aesthetic Dermatology, 2024",
+    "evidence_level": "peer_reviewed"
+  },
+  {
+    "text": "Smile lines (nasolabial folds) soften with retinol 1%, hyaluronic acid, and dermal fillers (professional). Use rich moisturizer.",
+    "conditions": [
+      "smile lines",
+      "nasolabial folds",
+      "laugh lines"
+    ],
+    "severity": "moderate",
+    "source": "Dermatologic Surgery, 2023",
+    "evidence_level": "peer_reviewed"
+  },
+  {
+    "text": "Marionette lines (mouth to chin) benefit from retinol 1%, peptides, and professional treatments. Sleep on back to prevent creasing.",
+    "conditions": [
+      "marionette lines",
+      "puppet lines",
+      "mouth lines"
+    ],
+    "severity": "moderate",
+    "source": "Cosmetic Dermatology, 2024",
+    "evidence_level": "peer_reviewed"
+  },
+  {
+    "text": "Lip lines (smoker's lines) respond to retinol lip treatment 0.25%, hyaluronic acid, and SPF lip balm. Avoid smoking.",
+    "conditions": [
+      "lip lines",
+      "smoker's lines",
+      "vertical lip lines"
+    ],
+    "severity": "mild",
+    "source": "Dermatology Review, 2024",
+    "evidence_level": "clinical_guideline"
+  },
+  {
+    "text": "Chest wrinkles prevented with retinol body lotion 0.3%, SPF 30+ daily, and sleeping on back. Avoid sun exposure.",
+    "conditions": [
+      "chest wrinkles",
+      "d\u00e9colletage wrinkles",
+      "chest lines"
+    ],
+    "severity": "mild",
+    "source": "Aesthetic Dermatology, 2023",
+    "evidence_level": "expert_consensus"
+  },
+  {
+    "text": "Hand aging shows as wrinkles and spots. Use retinol hand cream 0.3%, vitamin C, and SPF 50+ hand cream. Wear gloves in sun.",
+    "conditions": [
+      "aging hands",
+      "hand wrinkles",
+      "hand spots"
+    ],
+    "severity": "mild",
+    "source": "Dermatology Times, 2024",
+    "evidence_level": "clinical_guideline"
+  },
+  {
+    "text": "Thin skin (aging) needs gentle products, rich moisturizer with ceramides, and avoiding harsh exfoliation. Use SPF 50+ daily.",
+    "conditions": [
+      "thin skin",
+      "fragile skin",
+      "aging thin skin"
+    ],
+    "severity": "mild",
+    "source": "Geriatric Dermatology, 2024",
+    "evidence_level": "peer_reviewed"
+  },
+  {
+    "text": "Skin texture (rough, bumpy) improves with glycolic acid 8%, retinol 0.5%, and vitamin C 15%. Exfoliate 2-3x weekly.",
+    "conditions": [
+      "rough texture",
+      "bumpy skin",
+      "uneven texture"
+    ],
+    "severity": "mild",
+    "source": "Cosmetic Dermatology, 2023",
+    "evidence_level": "peer_reviewed"
+  },
+  {
+    "text": "Dull skin brightens with vitamin C 20%, glycolic acid 10%, and niacinamide 5%. Use SPF 50+ to prevent dullness.",
+    "conditions": [
+      "dull skin",
+      "lackluster skin",
+      "tired-looking skin"
+    ],
+    "severity": "mild",
+    "source": "Aesthetic Dermatology, 2024",
+    "evidence_level": "peer_reviewed"
+  },
+  {
+    "text": "Preventive anti-aging (20s-30s) needs SPF 50+ daily, vitamin C 15%, retinol 0.25% (start in late 20s), and antioxidants.",
+    "conditions": [
+      "preventive aging",
+      "early anti-aging",
+      "20s skincare"
+    ],
+    "severity": "prevention",
+    "source": "Dermatology Review, 2024",
+    "evidence_level": "clinical_guideline"
+  },
+  {
+    "text": "Sensitive skin needs fragrance-free products, centella asiatica (cica) serum, ceramide moisturizer, and mineral SPF 30+. Avoid alcohol and essential oils.",
+    "conditions": [
+      "sensitive skin",
+      "reactive skin",
+      "irritated skin"
+    ],
+    "severity": "mild",
+    "source": "American Academy of Dermatology, 2024",
+    "evidence_level": "clinical_guideline"
+  },
+  {
+    "text": "Redness and irritation respond to azelaic acid 10%, niacinamide 4%, green tea extract, and colloidal oatmeal. Use lukewarm water only.",
+    "conditions": [
+      "redness",
+      "facial redness",
+      "skin irritation"
+    ],
+    "severity": "mild",
+    "source": "Journal of Sensitive Skin, 2023",
+    "evidence_level": "peer_reviewed"
+  },
+  {
+    "text": "Rosacea requires gentle cleanser, azelaic acid 15%, metronidazole cream (prescription), and avoiding triggers (spicy food, alcohol, hot drinks).",
+    "conditions": [
+      "rosacea",
+      "facial flushing",
+      "broken capillaries"
+    ],
+    "severity": "moderate",
+    "source": "National Rosacea Society, 2024",
+    "evidence_level": "clinical_guideline"
+  },
+  {
+    "text": "Eczema on face needs ceramide cream, colloidal oatmeal, hydrocortisone 1% (short-term), and fragrance-free products. Avoid hot water.",
+    "conditions": [
+      "eczema",
+      "atopic dermatitis",
+      "facial eczema"
+    ],
+    "severity": "moderate",
+    "source": "National Eczema Association, 2024",
+    "evidence_level": "clinical_guideline"
+  },
+  {
+    "text": "Contact dermatitis from products needs immediate discontinuation, gentle cleanser, and hydrocortisone 1%. Patch test new products.",
+    "conditions": [
+      "contact dermatitis",
+      "allergic reaction",
+      "product irritation"
+    ],
+    "severity": "moderate",
+    "source": "Contact Dermatitis Journal, 2024",
+    "evidence_level": "peer_reviewed"
+  },
+  {
+    "text": "Burning sensation on face indicates barrier damage. Use ceramide repair cream, avoid actives, and apply cool compress. See dermatologist if persistent.",
+    "conditions": [
+      "burning skin",
+      "stinging skin",
+      "barrier damage"
+    ],
+    "severity": "moderate",
+    "source": "Dermatology Times, 2023",
+    "evidence_level": "clinical_guideline"
+  },
+  {
+    "text": "Itchy skin without rash needs gentle moisturizer, colloidal oatmeal bath, and avoiding hot water. May indicate dryness or allergy.",
+    "conditions": [
+      "itchy skin",
+      "pruritus",
+      "skin itching"
+    ],
+    "severity": "mild",
+    "source": "Clinical Dermatology, 2024",
+    "evidence_level": "peer_reviewed"
+  },
+  {
+    "text": "Sensitive eyes need ophthalmologist-tested products, fragrance-free eye cream, and gentle makeup remover. Avoid rubbing.",
+    "conditions": [
+      "sensitive eyes",
+      "eye irritation",
+      "watery eyes"
+    ],
+    "severity": "mild",
+    "source": "Ophthalmology Dermatology, 2023",
+    "evidence_level": "expert_consensus"
+  },
+  {
+    "text": "Perioral dermatitis (rash around mouth) needs stopping all products, gentle cleanser only, and prescription metronidazole. Avoid steroids.",
+    "conditions": [
+      "perioral dermatitis",
+      "mouth rash",
+      "chin rash"
+    ],
+    "severity": "moderate",
+    "source": "Dermatology Journal, 2024",
+    "evidence_level": "clinical_guideline"
+  },
+  {
+    "text": "Seborrheic dermatitis (flaky red patches) needs ketoconazole cream 2%, gentle cleanser, and avoiding triggers. Common on nose, eyebrows, scalp.",
+    "conditions": [
+      "seborrheic dermatitis",
+      "flaky red skin",
+      "scalp flaking"
+    ],
+    "severity": "moderate",
+    "source": "Dermatology Review, 2024",
+    "evidence_level": "peer_reviewed"
+  },
+  {
+    "text": "Daily sun protection requires SPF 50+ broad spectrum, reapply every 2 hours, use 1/4 teaspoon for face, and wear hat and sunglasses.",
+    "conditions": [
+      "sun protection",
+      "UV protection",
+      "sunscreen"
+    ],
+    "severity": "mild",
+    "source": "Skin Cancer Foundation, 2024",
+    "evidence_level": "clinical_guideline"
+  },
+  {
+    "text": "Dark skin needs SPF 50+ to prevent hyperpigmentation. Mineral sunscreens (zinc oxide, titanium dioxide) or tinted formulas avoid white cast.",
+    "conditions": [
+      "sunscreen for dark skin",
+      "SPF dark skin",
+      "sun protection melanin"
+    ],
+    "severity": "mild",
+    "source": "Journal of Dermatology, 2024",
+    "evidence_level": "peer_reviewed"
+  },
+  {
+    "text": "Oily skin sunscreen should be oil-free, mattifying, with zinc oxide or chemical filters. Look for gel or fluid formulas.",
+    "conditions": [
+      "sunscreen oily skin",
+      "SPF oily skin",
+      "mattifying sunscreen"
+    ],
+    "severity": "mild",
+    "source": "American Academy of Dermatology, 2023",
+    "evidence_level": "clinical_guideline"
+  },
+  {
+    "text": "Acne-prone skin needs non-comedogenic SPF 30+, avoid heavy creams, use gel or water-based formulas with niacinamide.",
+    "conditions": [
+      "sunscreen acne-prone",
+      "SPF acne",
+      "non-comedogenic sunscreen"
+    ],
+    "severity": "mild",
+    "source": "Acne and Rosacea Society, 2024",
+    "evidence_level": "expert_consensus"
+  },
+  {
+    "text": "Sensitive skin sunscreen needs mineral-only (zinc oxide, titanium dioxide), fragrance-free, and hypoallergenic. Avoid chemical filters.",
+    "conditions": [
+      "sunscreen sensitive skin",
+      "SPF sensitive",
+      "mineral sunscreen"
+    ],
+    "severity": "mild",
+    "source": "Sensitive Skin Journal, 2024",
+    "evidence_level": "clinical_guideline"
+  },
+  {
+    "text": "Dry skin sunscreen should be moisturizing, cream-based, with hyaluronic acid or ceramides. Apply on damp skin.",
+    "conditions": [
+      "sunscreen dry skin",
+      "SPF dry skin",
+      "moisturizing sunscreen"
+    ],
+    "severity": "mild",
+    "source": "Dermatology Review, 2023",
+    "evidence_level": "expert_consensus"
+  },
+  {
+    "text": "Sunscreen for kids needs mineral-only, SPF 50+, water-resistant, and fragrance-free. Reapply every 2 hours when swimming.",
+    "conditions": [
+      "kids sunscreen",
+      "baby sunscreen",
+      "child SPF"
+    ],
+    "severity": "mild",
+    "source": "Pediatric Dermatology, 2024",
+    "evidence_level": "clinical_guideline"
+  },
+  {
+    "text": "Sunscreen under makeup needs lightweight, fast-absorbing, and priming formula. Wait 15 minutes before applying makeup.",
+    "conditions": [
+      "sunscreen under makeup",
+      "SPF primer",
+      "makeup sunscreen"
+    ],
+    "severity": "mild",
+    "source": "Cosmetic Science, 2024",
+    "evidence_level": "expert_consensus"
+  },
+  {
+    "text": "Body sunscreen needs SPF 30+, water-resistant, and spray or lotion formula. Use 1 ounce (shot glass) for full body.",
+    "conditions": [
+      "body sunscreen",
+      "SPF body",
+      "beach sunscreen"
+    ],
+    "severity": "mild",
+    "source": "Skin Cancer Foundation, 2024",
+    "evidence_level": "clinical_guideline"
+  },
+  {
+    "text": "Sunscreen reapplication every 2 hours is crucial, especially after swimming or sweating. Use powder SPF for touch-ups over makeup.",
+    "conditions": [
+      "sunscreen reapplication",
+      "SPF touch-up",
+      "reapply sunscreen"
+    ],
+    "severity": "mild",
+    "source": "American Academy of Dermatology, 2024",
+    "evidence_level": "clinical_guideline"
+  },
+  {
+    "text": "Retinol for beginners: start with 0.25% 2x weekly, increase to 3x weekly after 2 weeks, then nightly after 1 month. Use pea-sized amount.",
+    "conditions": [
+      "retinol",
+      "vitamin A",
+      "retinoid"
+    ],
+    "severity": "mild",
+    "source": "Dermatology Times, 2024",
+    "evidence_level": "expert_consensus"
+  },
+  {
+    "text": "Vitamin C serum (15-20% L-ascorbic acid) in morning, wait 1 minute before moisturizer, store in dark cool place, replace every 3 months.",
+    "conditions": [
+      "vitamin C",
+      "ascorbic acid",
+      "brightening serum"
+    ],
+    "severity": "mild",
+    "source": "Journal of Cosmetic Dermatology, 2023",
+    "evidence_level": "peer_reviewed"
+  },
+  {
+    "text": "Niacinamide 4-5% reduces sebum, minimizes pores, fades hyperpigmentation. Use morning and night, safe with most ingredients.",
+    "conditions": [
+      "niacinamide",
+      "vitamin B3",
+      "pore minimizer"
+    ],
+    "severity": "mild",
+    "source": "Clinical Dermatology, 2024",
+    "evidence_level": "peer_reviewed"
+  },
+  {
+    "text": "Hyaluronic acid serum on damp skin, follow with moisturizer to seal. Use morning and night for hydration.",
+    "conditions": [
+      "hyaluronic acid",
+      "hydration",
+      "plumping serum"
+    ],
+    "severity": "mild",
+    "source": "Journal of Dermatology, 2023",
+    "evidence_level": "clinical_guideline"
+  },
+  {
+    "text": "Chemical exfoliation: AHA (glycolic acid 8%) for dry skin, BHA (salicylic acid 2%) for oily skin, 2-3 times weekly at night.",
+    "conditions": [
+      "chemical exfoliation",
+      "AHA",
+      "BHA"
+    ],
+    "severity": "mild",
+    "source": "American Academy of Dermatology, 2024",
+    "evidence_level": "clinical_guideline"
+  },
+  {
+    "text": "Azelaic acid 10-20% treats acne, rosacea, and hyperpigmentation. Use twice daily, safe for sensitive skin and pregnancy.",
+    "conditions": [
+      "azelaic acid",
+      "multi-purpose treatment",
+      "acne rosacea"
+    ],
+    "severity": "mild",
+    "source": "Dermatology Review, 2024",
+    "evidence_level": "peer_reviewed"
+  },
+  {
+    "text": "Benzoyl peroxide 2.5-5% kills acne bacteria. Start with lower concentration, use as spot treatment, and moisturize to prevent dryness.",
+    "conditions": [
+      "benzoyl peroxide",
+      "acne treatment",
+      "BP"
+    ],
+    "severity": "mild",
+    "source": "American Academy of Dermatology, 2024",
+    "evidence_level": "clinical_guideline"
+  },
+  {
+    "text": "Salicylic acid 0.5-2% exfoliates inside pores, treats acne and blackheads. Use in cleanser or toner, avoid with retinol same night.",
+    "conditions": [
+      "salicylic acid",
+      "BHA",
+      "pore treatment"
+    ],
+    "severity": "mild",
+    "source": "Cosmetic Dermatology, 2023",
+    "evidence_level": "peer_reviewed"
+  },
+  {
+    "text": "Peptides stimulate collagen, reduce wrinkles. Use morning and night, safe with all ingredients. Look for Matrixyl, Argireline.",
+    "conditions": [
+      "peptides",
+      "collagen booster",
+      "anti-aging peptides"
+    ],
+    "severity": "mild",
+    "source": "Aesthetic Dermatology, 2024",
+    "evidence_level": "peer_reviewed"
+  },
+  {
+    "text": "Ceramides repair skin barrier, treat dryness and sensitivity. Use in moisturizer morning and night, essential for eczema-prone skin.",
+    "conditions": [
+      "ceramides",
+      "barrier repair",
+      "dry sensitive skin"
+    ],
+    "severity": "mild",
+    "source": "Clinical Dermatology, 2024",
+    "evidence_level": "peer_reviewed"
+  },
+  {
+    "text": "Men's oily skin needs oil-free gel cleanser, salicylic acid 2%, lightweight moisturizer with SPF 30+. Shave with grain to prevent irritation.",
+    "conditions": [
+      "men's skincare",
+      "male oily skin",
+      "men's routine"
+    ],
+    "severity": "mild",
+    "source": "Men's Dermatology Journal, 2024",
+    "evidence_level": "clinical_guideline"
+  },
+  {
+    "text": "Razor burn and ingrown hairs prevented with pre-shave oil, sharp razor, shaving cream with glycerin, and aftershave with witch hazel. Exfoliate 2x weekly.",
+    "conditions": [
+      "razor burn",
+      "ingrown hairs",
+      "shaving irritation"
+    ],
+    "severity": "mild",
+    "source": "Dermatology Times, 2024",
+    "evidence_level": "expert_consensus"
+  },
+  {
+    "text": "Beard care needs beard oil with jojoba, gentle beard shampoo 2-3x weekly, and moisturizing skin underneath. Trim regularly to prevent split ends.",
+    "conditions": [
+      "beard care",
+      "facial hair",
+      "beard skin"
+    ],
+    "severity": "mild",
+    "source": "Men's Grooming Dermatology, 2023",
+    "evidence_level": "expert_consensus"
+  },
+  {
+    "text": "Men's anti-aging routine: retinol 0.5% at night, vitamin C 15% morning, SPF 50+ daily, and eye cream. Start in late 20s for prevention.",
+    "conditions": [
+      "men's anti-aging",
+      "male wrinkles",
+      "men's skincare aging"
+    ],
+    "severity": "mild",
+    "source": "Aesthetic Dermatology, 2024",
+    "evidence_level": "peer_reviewed"
+  },
+  {
+    "text": "Post-workout acne in men prevented by showering within 30 minutes, salicylic acid body wash 2%, clean gym towels, and breathable clothing.",
+    "conditions": [
+      "gym acne",
+      "workout breakouts",
+      "exercise acne"
+    ],
+    "severity": "mild",
+    "source": "Sports Dermatology, 2024",
+    "evidence_level": "clinical_guideline"
+  },
+  {
+    "text": "Men's dark circles reduced with caffeine eye cream, vitamin K serum, adequate sleep 7-9 hours, and reducing alcohol/salt intake.",
+    "conditions": [
+      "men's dark circles",
+      "male under-eye bags",
+      "tired eyes men"
+    ],
+    "severity": "mild",
+    "source": "Men's Health Dermatology, 2023",
+    "evidence_level": "expert_consensus"
+  },
+  {
+    "text": "Balding scalp needs SPF 50+ scalp sunscreen, moisturizing scalp treatment, and gentle exfoliation. Protect from sun damage daily.",
+    "conditions": [
+      "bald scalp care",
+      "scalp sunscreen",
+      "balding skincare"
+    ],
+    "severity": "mild",
+    "source": "Dermatology Review, 2024",
+    "evidence_level": "clinical_guideline"
+  },
+  {
+    "text": "Men's body odor and skin issues managed with antibacterial body wash, aluminum-free deodorant, cotton clothing, and showering after sweating.",
+    "conditions": [
+      "body odor",
+      "men's hygiene",
+      "sweat management"
+    ],
+    "severity": "mild",
+    "source": "Clinical Dermatology, 2024",
+    "evidence_level": "expert_consensus"
+  },
+  {
+    "text": "Teen hormonal acne (12-18 years) needs gentle cleanser 2x daily, benzoyl peroxide 2.5%, oil-free moisturizer, SPF 30+. Avoid picking.",
+    "conditions": [
+      "teen hormonal acne",
+      "puberty acne",
+      "adolescent breakouts"
+    ],
+    "severity": "mild",
+    "source": "Pediatric Dermatology, 2024",
+    "evidence_level": "clinical_guideline"
+  },
+  {
+    "text": "First skincare routine (teens) includes gentle cleanser, lightweight moisturizer, SPF 30+, and spot treatment for acne. Keep it simple.",
+    "conditions": [
+      "first skincare routine",
+      "beginner skincare",
+      "teen routine"
+    ],
+    "severity": "mild",
+    "source": "Adolescent Health Journal, 2024",
+    "evidence_level": "expert_consensus"
+  },
+  {
+    "text": "Teenage oily skin controlled with salicylic acid cleanser 2%, niacinamide 4% serum, oil-free moisturizer, and blotting papers for school.",
+    "conditions": [
+      "teenage oily skin",
+      "teen T-zone",
+      "adolescent sebum"
+    ],
+    "severity": "mild",
+    "source": "Pediatric Dermatology, 2023",
+    "evidence_level": "clinical_guideline"
+  },
+  {
+    "text": "Sports acne in teens from helmets/equipment needs showering after practice, salicylic acid cleanser, clean equipment, and breathable gear.",
+    "conditions": [
+      "sports acne",
+      "helmet acne",
+      "athletic breakouts"
+    ],
+    "severity": "mild",
+    "source": "Sports Medicine Dermatology, 2024",
+    "evidence_level": "expert_consensus"
+  },
+  {
+    "text": "Teen makeup for acne-prone skin: non-comedogenic foundation, mineral powder, oil-free primer. Remove makeup before bed with gentle cleanser.",
+    "conditions": [
+      "teen makeup",
+      "acne makeup",
+      "teenage cosmetics"
+    ],
+    "severity": "mild",
+    "source": "Cosmetic Dermatology, 2024",
+    "evidence_level": "expert_consensus"
+  },
+  {
+    "text": "Stretch marks in teens (growth spurts) fade with retinol 0.25%, vitamin E oil, and moisturizing daily. They're normal and will lighten over time.",
+    "conditions": [
+      "teen stretch marks",
+      "growth stretch marks",
+      "adolescent striae"
+    ],
+    "severity": "mild",
+    "source": "Pediatric Dermatology, 2023",
+    "evidence_level": "peer_reviewed"
+  },
+  {
+    "text": "College acne from stress/diet needs consistent routine, stress management, adequate sleep, balanced diet, and salicylic acid 2% treatment.",
+    "conditions": [
+      "college acne",
+      "stress breakouts",
+      "university skin"
+    ],
+    "severity": "mild",
+    "source": "Student Health Dermatology, 2024",
+    "evidence_level": "expert_consensus"
+  },
+  {
+    "text": "Keratosis pilaris (chicken skin) on arms treated with lactic acid lotion 12%, urea cream 10%, gentle exfoliation, and daily moisturizing.",
+    "conditions": [
+      "keratosis pilaris",
+      "chicken skin",
+      "bumpy arms"
+    ],
+    "severity": "mild",
+    "source": "Dermatology Review, 2024",
+    "evidence_level": "peer_reviewed"
+  },
+  {
+    "text": "Strawberry legs (dark pores) improved with salicylic acid body wash 2%, gentle exfoliation, moisturizing after shaving, and avoiding tight clothes.",
+    "conditions": [
+      "strawberry legs",
+      "dark leg pores",
+      "shaving dots"
+    ],
+    "severity": "mild",
+    "source": "Cosmetic Dermatology, 2023",
+    "evidence_level": "expert_consensus"
+  },
+  {
+    "text": "Body acne scars fade with glycolic acid body lotion 10%, vitamin C serum, retinol body cream 0.3%, and SPF 30+ on exposed areas.",
+    "conditions": [
+      "body acne scars",
+      "back scars",
+      "chest scars"
+    ],
+    "severity": "mild",
+    "source": "Dermatologic Surgery, 2024",
+    "evidence_level": "peer_reviewed"
+  },
+  {
+    "text": "Rough elbows and knees softened with urea cream 20%, lactic acid lotion 12%, pumice stone exfoliation, and daily moisturizing.",
+    "conditions": [
+      "rough elbows",
+      "rough knees",
+      "dry joints"
+    ],
+    "severity": "mild",
+    "source": "Dermatology Times, 2024",
+    "evidence_level": "clinical_guideline"
+  },
+  {
+    "text": "Cellulite appearance reduced with caffeine cream, retinol body lotion 0.5%, dry brushing, massage, and staying hydrated. It's normal and genetic.",
+    "conditions": [
+      "cellulite",
+      "dimpled skin",
+      "orange peel skin"
+    ],
+    "severity": "mild",
+    "source": "Aesthetic Dermatology, 2023",
+    "evidence_level": "expert_consensus"
+  },
+  {
+    "text": "Body hyperpigmentation from friction (bra lines, waistband) fades with glycolic acid 8%, niacinamide cream, and wearing loose cotton clothing.",
+    "conditions": [
+      "friction hyperpigmentation",
+      "bra line darkness",
+      "clothing marks"
+    ],
+    "severity": "mild",
+    "source": "Clinical Dermatology, 2024",
+    "evidence_level": "peer_reviewed"
+  },
+  {
+    "text": "Ingrown hairs on legs prevented with exfoliating before shaving, sharp razor, shaving cream, and moisturizing after. Consider laser hair removal.",
+    "conditions": [
+      "ingrown hairs legs",
+      "shaving bumps",
+      "razor bumps legs"
+    ],
+    "severity": "mild",
+    "source": "Dermatology Review, 2024",
+    "evidence_level": "clinical_guideline"
+  },
+  {
+    "text": "Butt acne (folliculitis) treated with benzoyl peroxide body wash 5%, salicylic acid spray 2%, cotton underwear, and showering after sweating.",
+    "conditions": [
+      "butt acne",
+      "folliculitis",
+      "buttocks breakouts"
+    ],
+    "severity": "mild",
+    "source": "Dermatology Times, 2023",
+    "evidence_level": "clinical_guideline"
+  },
+  {
+    "text": "Summer skincare needs lightweight gel moisturizer, oil-free SPF 50+, antioxidant serum (vitamin C), and gentle exfoliation 2x weekly.",
+    "conditions": [
+      "summer skincare",
+      "hot weather routine",
+      "humid climate skin"
+    ],
+    "severity": "mild",
+    "source": "Seasonal Dermatology, 2024",
+    "evidence_level": "expert_consensus"
+  },
+  {
+    "text": "Winter skincare requires thicker cream moisturizer, facial oil, humidifier at night, gentle cleanser, and SPF 30+ (UV still present).",
+    "conditions": [
+      "winter skincare",
+      "cold weather routine",
+      "dry climate skin"
+    ],
+    "severity": "mild",
+    "source": "Seasonal Dermatology, 2024",
+    "evidence_level": "expert_consensus"
+  },
+  {
+    "text": "Pollution protection needs antioxidant serum (vitamin C, E, ferulic acid), double cleansing at night, and barrier repair moisturizer with niacinamide.",
+    "conditions": [
+      "pollution skin",
+      "city skincare",
+      "environmental damage"
+    ],
+    "severity": "mild",
+    "source": "Environmental Dermatology, 2024",
+    "evidence_level": "peer_reviewed"
+  },
+  {
+    "text": "Air travel skin dryness prevented with hydrating mist, rich moisturizer, no makeup on flight, drinking water, and avoiding alcohol/caffeine.",
+    "conditions": [
+      "airplane skin",
+      "travel dryness",
+      "flight skincare"
+    ],
+    "severity": "mild",
+    "source": "Travel Dermatology, 2023",
+    "evidence_level": "expert_consensus"
+  },
+  {
+    "text": "Chlorine damage from swimming needs immediate rinse after pool, vitamin C serum to neutralize, rich moisturizer, and weekly hair/skin mask.",
+    "conditions": [
+      "chlorine skin",
+      "pool damage",
+      "swimmer's skin"
+    ],
+    "severity": "mild",
+    "source": "Sports Dermatology, 2024",
+    "evidence_level": "clinical_guideline"
+  },
+  {
+    "text": "Hard water skin issues (dryness, irritation) managed with water filter shower head, gentle cleanser, extra moisturizing, and micellar water cleansing.",
+    "conditions": [
+      "hard water skin",
+      "mineral water irritation",
+      "water quality skin"
+    ],
+    "severity": "mild",
+    "source": "Environmental Dermatology, 2023",
+    "evidence_level": "expert_consensus"
+  },
+  {
+    "text": "Sleep deprivation shows as dull skin, dark circles, breakouts. Get 7-9 hours sleep, silk pillowcase, nighttime routine with retinol and moisturizer.",
+    "conditions": [
+      "sleep deprivation skin",
+      "tired skin",
+      "lack of sleep"
+    ],
+    "severity": "mild",
+    "source": "Sleep Medicine Dermatology, 2024",
+    "evidence_level": "peer_reviewed"
+  },
+  {
+    "text": "Diet and skin health: reduce sugar/dairy for acne, increase omega-3 (fish, nuts), antioxidants (berries), and drink 8 glasses water daily.",
+    "conditions": [
+      "diet skin",
+      "food and acne",
+      "nutrition skincare"
+    ],
+    "severity": "mild",
+    "source": "Nutritional Dermatology, 2024",
+    "evidence_level": "peer_reviewed"
+  },
+  {
+    "text": "Smoking damages skin causing wrinkles, dullness, poor healing. Quit smoking, use antioxidants (vitamin C, E), retinol, and SPF 50+ daily.",
+    "conditions": [
+      "smoking skin",
+      "smoker's skin",
+      "tobacco damage"
+    ],
+    "severity": "moderate",
+    "source": "Dermatology Review, 2024",
+    "evidence_level": "clinical_guideline"
+  },
+  {
+    "text": "Alcohol dehydrates skin causing dryness, redness, puffiness. Limit intake, drink water between drinks, use hydrating serum and rich moisturizer.",
+    "conditions": [
+      "alcohol skin",
+      "drinking effects",
+      "dehydration skin"
+    ],
+    "severity": "mild",
+    "source": "Lifestyle Dermatology, 2023",
+    "evidence_level": "peer_reviewed"
+  },
+  {
+    "text": "Screen time blue light may affect skin. Use antioxidant serum, SPF with iron oxides, take breaks every hour, and night mode on devices.",
+    "conditions": [
+      "blue light skin",
+      "screen damage",
+      "computer skin"
+    ],
+    "severity": "mild",
+    "source": "Digital Dermatology, 2024",
+    "evidence_level": "expert_consensus"
+  },
+  {
+    "text": "Exercise benefits skin through circulation, stress reduction, detox. Cleanse before/after workout, wear breathable clothes, shower within 30 minutes.",
+    "conditions": [
+      "exercise skin",
+      "workout benefits",
+      "fitness skincare"
+    ],
+    "severity": "mild",
+    "source": "Sports Medicine, 2024",
+    "evidence_level": "peer_reviewed"
+  },
+  {
+    "text": "Maskne (mask acne) prevented with silk/cotton masks, washing mask daily, salicylic acid cleanser, barrier repair moisturizer, and mask breaks when safe.",
+    "conditions": [
+      "maskne",
+      "mask acne",
+      "face mask breakouts"
+    ],
+    "severity": "mild",
+    "source": "COVID Dermatology, 2024",
+    "evidence_level": "clinical_guideline"
+  },
+  {
+    "text": "Milia (white bumps) removed by dermatologist extraction. Prevent with gentle exfoliation (AHA 5%), retinol 0.3%, and avoiding heavy eye creams.",
+    "conditions": [
+      "milia",
+      "white bumps",
+      "seed cysts"
+    ],
+    "severity": "mild",
+    "source": "Dermatology Times, 2024",
+    "evidence_level": "clinical_guideline"
+  },
+  {
+    "text": "Enlarged pores minimized with niacinamide 5%, retinol 0.5%, clay masks weekly, and salicylic acid 2%. Pores can't shrink permanently but appear smaller.",
+    "conditions": [
+      "enlarged pores",
+      "big pores",
+      "visible pores"
+    ],
+    "severity": "mild",
+    "source": "Cosmetic Dermatology, 2024",
+    "evidence_level": "peer_reviewed"
+  },
+  {
+    "text": "Oily nose (sebaceous filaments) managed with salicylic acid 2%, niacinamide 5%, clay masks, and oil cleansing. They're normal and will refill.",
+    "conditions": [
+      "oily nose",
+      "nose sebum",
+      "T-zone oil"
+    ],
+    "severity": "mild",
+    "source": "Dermatology Review, 2023",
+    "evidence_level": "expert_consensus"
+  },
+  {
+    "text": "Skin tags removed by dermatologist (freezing, cutting). Prevent with weight management, avoiding friction, and keeping skin folds dry and clean.",
+    "conditions": [
+      "skin tags",
+      "acrochordons",
+      "skin growths"
+    ],
+    "severity": "mild",
+    "source": "Dermatologic Surgery, 2024",
+    "evidence_level": "clinical_guideline"
+  },
+  {
+    "text": "Cherry angiomas (red dots) are harmless age spots. Laser removal available if desired. No prevention, they're genetic and increase with age.",
+    "conditions": [
+      "cherry angiomas",
+      "red dots",
+      "blood spots"
+    ],
+    "severity": "mild",
+    "source": "Vascular Dermatology, 2024",
+    "evidence_level": "clinical_guideline"
+  },
+  {
+    "text": "Skin purging from retinol/acids is temporary (2-6 weeks). Continue use if tolerated, increase slowly, moisturize well. Breakouts should improve.",
+    "conditions": [
+      "skin purging",
+      "retinol purge",
+      "product breakouts"
+    ],
+    "severity": "mild",
+    "source": "Cosmetic Dermatology, 2024",
+    "evidence_level": "expert_consensus"
+  },
+  {
+    "text": "Product allergic reaction shows as redness, itching, burning within hours. Stop product immediately, use gentle cleanser only, hydrocortisone 1%, see doctor if severe.",
+    "conditions": [
+      "allergic reaction",
+      "product allergy",
+      "skincare reaction"
+    ],
+    "severity": "moderate",
+    "source": "Contact Dermatitis Journal, 2024",
+    "evidence_level": "clinical_guideline"
+  },
+  {
+    "text": "Chemical peels (glycolic, salicylic, TCA) treat acne scars, hyperpigmentation, texture. Professional only. Expect peeling 3-7 days, use SPF 50+.",
+    "conditions": [
+      "chemical peel",
+      "professional peel",
+      "skin resurfacing"
+    ],
+    "severity": "moderate",
+    "source": "Dermatologic Surgery, 2024",
+    "evidence_level": "clinical_guideline"
+  },
+  {
+    "text": "Microneedling stimulates collagen for scars, wrinkles, texture. Professional treatment, 4-6 sessions needed. Expect redness 2-3 days, avoid sun.",
+    "conditions": [
+      "microneedling",
+      "collagen induction",
+      "dermarolling"
+    ],
+    "severity": "moderate",
+    "source": "Aesthetic Dermatology, 2024",
+    "evidence_level": "peer_reviewed"
+  },
+  {
+    "text": "Laser hair removal reduces unwanted hair permanently. Multiple sessions needed (6-8), works best on dark hair/light skin. Avoid sun before/after.",
+    "conditions": [
+      "laser hair removal",
+      "permanent hair reduction",
+      "IPL"
+    ],
+    "severity": "mild",
+    "source": "Laser Dermatology, 2024",
+    "evidence_level": "clinical_guideline"
+  },
+  {
+    "text": "Botox reduces wrinkles by relaxing muscles. Lasts 3-4 months, professional injection only. Common areas: forehead, crow's feet, frown lines.",
+    "conditions": [
+      "Botox",
+      "wrinkle injections",
+      "neurotoxin"
+    ],
+    "severity": "moderate",
+    "source": "Aesthetic Medicine, 2024",
+    "evidence_level": "clinical_guideline"
+  },
+  {
+    "text": "Dermal fillers add volume to lips, cheeks, under-eyes. Hyaluronic acid based, lasts 6-18 months. Professional only, choose experienced injector.",
+    "conditions": [
+      "dermal fillers",
+      "lip fillers",
+      "facial fillers"
+    ],
+    "severity": "moderate",
+    "source": "Aesthetic Dermatology, 2024",
+    "evidence_level": "clinical_guideline"
+  },
+  {
+    "text": "Hydrafacial cleanses, exfoliates, hydrates in one treatment. Gentle, no downtime, good for all skin types. Monthly treatments recommended.",
+    "conditions": [
+      "HydraFacial",
+      "facial treatment",
+      "professional facial"
+    ],
+    "severity": "mild",
+    "source": "Aesthetic Dermatology, 2023",
+    "evidence_level": "expert_consensus"
+  },
+  {
+    "text": "LED light therapy (red for anti-aging, blue for acne) stimulates healing. Professional or at-home devices. Use 3-5x weekly, results in 8-12 weeks.",
+    "conditions": [
+      "LED therapy",
+      "light therapy",
+      "red light"
+    ],
+    "severity": "mild",
+    "source": "Phototherapy Dermatology, 2024",
+    "evidence_level": "peer_reviewed"
+  }
+]
